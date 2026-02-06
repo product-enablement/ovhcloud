@@ -10,7 +10,7 @@ Whether you are here to learn how to orchestrate thousands of containers with **
 
 All our technical labs, architecture deep-dives, and troubleshooting cheat sheets are hosted in our **GitHub Wiki**. This is your "Single Pane of Glass" for learning.
 
-### **[👉 Enter the Knowledge Hub (Home · product-enablement/ovhcloud Wiki)](https://www.google.com/search?q=https://github.com/product-enablement/ovhcloud/wiki)**
+### **[👉 Enter the Knowledge Hub (Home · product-enablement/ovhcloud Wiki)][(https://github.com/product-enablement/ovhcloud/wiki)]**
 
 ---
 
@@ -36,7 +36,7 @@ Master the trinity of cloud storage:
 
 ## 🚀 Getting Started
 
-1. **Select a Module:** Head over to the [Wiki](https://www.google.com/search?q=https://github.com/product-enablement/ovhcloud/wiki) and pick a starting point.
+1. **Select a Module:** Head over to the [Wiki](https://github.com/product-enablement/ovhcloud/wiki) and pick a starting point.
 2. **Follow the Labs:** Each page contains step-by-step instructions, YAML manifests, and CLI commands.
 3. **Clean Up:** Every lab includes a cleanup section to help you manage your Public Cloud costs.
 
