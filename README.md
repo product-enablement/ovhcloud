@@ -10,7 +10,7 @@ Whether you are here to learn how to orchestrate thousands of containers with **
 
 All our technical labs, architecture deep-dives, and troubleshooting cheat sheets are hosted in our **GitHub Wiki**. This is your "Single Pane of Glass" for learning.
 
-### **[👉 Enter the Knowledge Hub (Home · product-enablement/ovhcloud Wiki)][(https://github.com/product-enablement/ovhcloud/wiki)]**
+### **[👉 Enter the Knowledge Hub](https://github.com/product-enablement/ovhcloud/wiki)]**
 
 ---
 
